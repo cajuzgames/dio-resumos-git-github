@@ -13,7 +13,7 @@ do curso Versionamento de codigo [digital informacao one](https://www.dio.me/).
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alteracoes no Repositorio Local | [Resumos]()|
+| Gravando alteracoes no Repositorio Local | [Resumo]()|
 
 ```
 git init
